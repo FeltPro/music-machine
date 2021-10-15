@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/music-machine/static/css/main.0e967786.chunk.css",
+    "main.js": "/music-machine/static/js/main.5e26959a.chunk.js",
+    "main.js.map": "/music-machine/static/js/main.5e26959a.chunk.js.map",
+    "runtime-main.js": "/music-machine/static/js/runtime-main.4e11e8e6.js",
+    "runtime-main.js.map": "/music-machine/static/js/runtime-main.4e11e8e6.js.map",
+    "static/css/2.330c6553.chunk.css": "/music-machine/static/css/2.330c6553.chunk.css",
+    "static/js/2.3c41891c.chunk.js": "/music-machine/static/js/2.3c41891c.chunk.js",
+    "static/js/2.3c41891c.chunk.js.map": "/music-machine/static/js/2.3c41891c.chunk.js.map",
+    "static/js/3.263d8afd.chunk.js": "/music-machine/static/js/3.263d8afd.chunk.js",
+    "static/js/3.263d8afd.chunk.js.map": "/music-machine/static/js/3.263d8afd.chunk.js.map",
+    "index.html": "/music-machine/index.html",
+    "static/css/2.330c6553.chunk.css.map": "/music-machine/static/css/2.330c6553.chunk.css.map",
+    "static/css/main.0e967786.chunk.css.map": "/music-machine/static/css/main.0e967786.chunk.css.map",
+    "static/js/2.3c41891c.chunk.js.LICENSE.txt": "/music-machine/static/js/2.3c41891c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/music-machine/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e11e8e6.js",
+    "static/css/2.330c6553.chunk.css",
+    "static/js/2.3c41891c.chunk.js",
+    "static/css/main.0e967786.chunk.css",
+    "static/js/main.5e26959a.chunk.js"
+  ]
+}
