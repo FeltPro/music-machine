@@ -1,0 +1,1 @@
+[A FCC music machine project on React. Tutorial by Landon Schlangen used to develop knowledge on javascript and components https://www.youtube.com/channel/UC4oRFTHw71_CBSHAcCRmV6w](https://feltpro.github.io/music-machine/)
